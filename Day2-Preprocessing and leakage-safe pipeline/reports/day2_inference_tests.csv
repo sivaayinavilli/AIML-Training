@@ -1,0 +1,7 @@
+test,status
+Valid input,PASSED
+Single-row input,PASSED
+Missing feature rejected,PASSED
+Extra feature rejected,PASSED
+Reordered columns,PASSED
+Reloaded model prediction,PASSED

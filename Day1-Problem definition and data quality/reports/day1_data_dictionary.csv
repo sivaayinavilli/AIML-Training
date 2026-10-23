@@ -1,0 +1,32 @@
+column_name,description,column_type
+mean radius,mean radius,numerical feature
+mean texture,mean texture,numerical feature
+mean perimeter,mean perimeter,numerical feature
+mean area,mean area,numerical feature
+mean smoothness,mean smoothness,numerical feature
+mean compactness,mean compactness,numerical feature
+mean concavity,mean concavity,numerical feature
+mean concave points,mean concave points,numerical feature
+mean symmetry,mean symmetry,numerical feature
+mean fractal dimension,mean fractal dimension,numerical feature
+radius error,radius error,numerical feature
+texture error,texture error,numerical feature
+perimeter error,perimeter error,numerical feature
+area error,area error,numerical feature
+smoothness error,smoothness error,numerical feature
+compactness error,compactness error,numerical feature
+concavity error,concavity error,numerical feature
+concave points error,concave points error,numerical feature
+symmetry error,symmetry error,numerical feature
+fractal dimension error,fractal dimension error,numerical feature
+worst radius,worst radius,numerical feature
+worst texture,worst texture,numerical feature
+worst perimeter,worst perimeter,numerical feature
+worst area,worst area,numerical feature
+worst smoothness,worst smoothness,numerical feature
+worst compactness,worst compactness,numerical feature
+worst concavity,worst concavity,numerical feature
+worst concave points,worst concave points,numerical feature
+worst symmetry,worst symmetry,numerical feature
+worst fractal dimension,worst fractal dimension,numerical feature
+target,"Diagnosis class: 0 = malignant, 1 = benign",target

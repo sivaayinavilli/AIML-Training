@@ -1,0 +1,10 @@
+check,result
+total_records,569
+total_columns,31
+input_features,30
+missing_values,0
+duplicate_rows,0
+missing_targets,0
+train_records,455
+test_records,114
+exact_target_feature_matches,0

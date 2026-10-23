@@ -1,0 +1,14 @@
+{
+    "selected_model": "Logistic Regression",
+    "selection_rule": "Highest malignant recall, then malignant F1, then accuracy",
+    "random_state": 42,
+    "test_size": 0.2,
+    "malignant_class_label": 0,
+    "metrics": {
+        "accuracy": 0.9824561403508771,
+        "malignant_precision": 0.9761904761904762,
+        "malignant_recall": 0.9761904761904762,
+        "malignant_f1": 0.9761904761904762,
+        "benign_recall": 0.9861111111111112
+    }
+}

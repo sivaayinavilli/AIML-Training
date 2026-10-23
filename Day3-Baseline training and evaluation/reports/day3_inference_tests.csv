@@ -1,0 +1,5 @@
+test,expected,actual,status
+Valid input,Prediction returned,0,PASSED
+Single-row input,One prediction,One prediction,PASSED
+Missing feature,Input rejected,Input rejected,PASSED
+Empty input,Input rejected,Input rejected,PASSED
